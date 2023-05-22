@@ -1,9 +1,22 @@
-# React TypeScript Starter Pack
+# CRUD react application within a REST architecture
 
-To use this template click `Use this template`
+- [DEMO LINK](https://11olya112.github.io/Eco___cosmetics/)
 
-### Available Scripts
+## Description
 
-`Deploy` - available to deploy your application to gh-pages
+Using React,SCSS, BEM, Typescript technologies
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+## Local development
+
+### Dependencies
+* Node v12.16.3 and higher
+* NPM v6.14.4 and higher
+
+### Installing
+* Fork and clone this repository
+* Run npm install in your terminal
+* Run npm start
+
+## Troubleshooting
+
+For any contributing or problem solving you could find me [here - Telegram](https://t.me/Olya_36) and [here - Email](mailto:olyabushovska767@gmail.com)
