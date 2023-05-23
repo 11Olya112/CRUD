@@ -1,6 +1,6 @@
 # CRUD react application within a REST architecture
 
-- [DEMO LINK](https://11olya112.github.io/Eco___cosmetics/)
+- [DEMO LINK](https://11olya112.github.io/CRUD/)
 
 ## Description
 
